@@ -6,4 +6,6 @@ To access the lab document itself: [click here]
 
 To download the Kali Linux or Windows Server 2022 .ova files, click the hyperlinks.
 
+If the VM files are having issues, download these Velociraptor files for [Kali Linux](https://github.com/Velocidex/velociraptor/releases/download/v0.74/velociraptor-v0.74.2-linux-arm64) and the [Windows Server 2022](https://github.com/Velocidex/velociraptor/releases/download/v0.74/velociraptor-v0.74.2-windows-amd64.exe) machines. 
+
 Thank you for reading this! ~ Jamil
