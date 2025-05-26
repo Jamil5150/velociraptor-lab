@@ -4,7 +4,7 @@ This repo is dedicated to hosting the files needed for my Velociraptor Deploymen
 
 To access the lab document itself: [click here](https://github.com/Jamil5150/velociraptor-lab/blob/main/Velociraptor%20Lab.pdf)
 
-To download the [Kali Linux](https://cccd0-my.sharepoint.com/:u:/g/personal/jelfar_student_cccd_edu/EZZHgAOTMnVFqqXklv16zhQBcTq9gmobZisP-TDOwlkVjQ?e=lrrUlm) or [Windows Server 2022](https://cccd0-my.sharepoint.com/:u:/g/personal/jelfar_student_cccd_edu/EYQR1og9lT1IsbCM3MGrjqsB7FAWqVbIa2OOFgclAZabvA?e=O9mHJH).ova files, click the hyperlinks. Please note that these files are only accessible via OneDrive due to GitHub limitations, and are locked to the Coast Community College District. 
+To download the [Kali Linux (5 GB)](https://cccd0-my.sharepoint.com/:u:/g/personal/jelfar_student_cccd_edu/EZZHgAOTMnVFqqXklv16zhQBcTq9gmobZisP-TDOwlkVjQ?e=lrrUlm) or [Windows Server 2022 (7.6 GB)](https://cccd0-my.sharepoint.com/:u:/g/personal/jelfar_student_cccd_edu/EYQR1og9lT1IsbCM3MGrjqsB7FAWqVbIa2OOFgclAZabvA?e=O9mHJH).ova files, click the hyperlinks. Please note that these files are only accessible via OneDrive due to GitHub limitations, and are locked to the Coast Community College District. 
 
 If the VM files cannot be downloaded, download these Velociraptor files for the [Kali Linux](https://github.com/Velocidex/velociraptor/releases/download/v0.74/velociraptor-v0.74.2-linux-arm64) and [Windows Server 2022](https://github.com/Velocidex/velociraptor/releases/download/v0.74/velociraptor-v0.74.2-windows-amd64.exe) machines. 
 
